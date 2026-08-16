@@ -1,0 +1,28 @@
+[
+{
+    "model": "catalog.product",
+    "pk": 3,
+    "fields": {
+        "name": "MSI PRO MP273A",
+        "description": "Монитор MSI PRO MP273A оборудован 27-дюймовым экраном IPS FullHD с безрамочным дизайном. Это обеспечивает реалистичность изображения и концентрацию на выполнении задач",
+        "image": "catalog/data/images/image2.png",
+        "category": 4,
+        "price": "11192.99",
+        "created_at": "2026-08-16T12:10:51.859Z",
+        "updated_at": "2026-08-16T12:10:51.859Z"
+    }
+},
+{
+    "model": "catalog.product",
+    "pk": 5,
+    "fields": {
+        "name": "ADATA NVME SSD 512GB",
+        "description": "Твердотельный накопитель для хранения информации, отличающееся от HDD большей скоростью чтения и записи",
+        "image": "catalog/data/images/image1.png",
+        "category": 3,
+        "price": "999999.99",
+        "created_at": "2026-08-16T12:11:29.551Z",
+        "updated_at": "2026-08-16T12:11:29.551Z"
+    }
+}
+]
